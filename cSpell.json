@@ -8,15 +8,16 @@
     "words": [
         "downlevel",
         "ESNEXT",
+        "Interop",
         "languageclient",
         "lerna",
+        "multiroot",
         "nospace",
         "quotemark",
         "sourcemap",
         "streetsidesoftware",
-        "typechecking",
-        "Interop",
         "tslib",
+        "typechecking",
         "webview"
     ],
     // flagWords - list of words to be always considered incorrect
