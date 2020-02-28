@@ -28,6 +28,9 @@
 			"restructuredtext",
 			"vsce"
 		],
-		"typescript.tsdk": "client/node_modules/typescript/lib"
+		"typescript.tsdk": "client/node_modules/typescript/lib",
+		"cSpell.import": [
+			"${workspaceFolder:vscode-spell-checker}/cSpell.json"
+		]
 	}
 }
